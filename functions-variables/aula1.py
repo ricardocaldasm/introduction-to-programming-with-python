@@ -9,7 +9,6 @@ lista = list()
 lista = nome.split(" ")
 print(f"Nome: {lista}")
 
-a = 999
-b = 1
-c = a + b
-print(f"{c}")
+print(f"{1000:,}")  # separador com ','
+
+# função potência: pow(2,3) ou 2**3
