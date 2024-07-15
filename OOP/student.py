@@ -28,6 +28,7 @@ class Student:
 def main():
     student = get_student()
     print("Expecto Patronum!")
+    print(student.charm())
     # print(f"{student.name} from {student.house}.")
 
 
